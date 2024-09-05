@@ -1,0 +1,28 @@
+dataset3/
+Model/
+Test/
+*.toc
+*.gz
+*.xml
+*.log
+*.fdb_latexmk
+*.bbl
+*.blg
+*.aux
+*.fls
+*.out
+*.bcf
+*.lof
+*.lof
+*.lot
+*.pdf
+*.env
+Presentation/~$FruitQMiniProjectPresentationE.pptx
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
