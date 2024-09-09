@@ -5,5 +5,5 @@ Created a goal programming model for our family business, Nuwelco.
 <h2 align="center">⚒️ Technologies used ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=latex,vscode" />   
+    <img src="https://skillicons.dev/icons?i=latex,vscode,pycharm" />   
 </div>
